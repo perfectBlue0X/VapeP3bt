@@ -1559,7 +1559,7 @@ run(function()
 end)
 
 run(function()
-	local Fly = {Enabled = false}
+	local Fly = {Enabled = true}
 	local FlySpeed = {Value = 1}
 	local FlyVerticalSpeed = {Value = 1}
 	local FlyTPOff = {Value = 10}

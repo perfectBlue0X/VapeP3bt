@@ -1,2 +1,4 @@
 # Vape V4
-rewrite soon :tm:
+Discontinued by xylex,
+
+If he doesn't return i'll continue.
